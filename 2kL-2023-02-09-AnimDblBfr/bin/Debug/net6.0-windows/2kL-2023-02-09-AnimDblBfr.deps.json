@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2kL-2023-02-09-AnimDblBfr/1.0.0": {
+        "runtime": {
+          "2kL-2023-02-09-AnimDblBfr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2kL-2023-02-09-AnimDblBfr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

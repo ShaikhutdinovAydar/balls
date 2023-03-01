@@ -1,0 +1,17 @@
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\bin\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.exe
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\bin\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.deps.json
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\bin\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.runtimeconfig.json
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\bin\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.dll
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\bin\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.pdb
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.csproj.AssemblyReference.cache
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\_2kL_2023_02_09_AnimDblBfr.Form1.resources
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.csproj.GenerateResource.cache
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.AssemblyInfoInputs.cache
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.AssemblyInfo.cs
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.csproj.CoreCompileInputs.cache
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.dll
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\refint\2kL-2023-02-09-AnimDblBfr.dll
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.pdb
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\2kL-2023-02-09-AnimDblBfr.genruntimeconfig.cache
+C:\Users\rijic\source\repos\2kL-2023-02-09-AnimDblBfr-master\2kL-2023-02-09-AnimDblBfr\obj\Debug\net6.0-windows\ref\2kL-2023-02-09-AnimDblBfr.dll
